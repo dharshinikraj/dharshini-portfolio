@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.agents/
+.env
+.env.*
+.vscode/
+.DS_Store
